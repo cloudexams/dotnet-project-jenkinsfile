@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ngoc.vu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ngoc.vu\\.nuget\\packages"
+    ]
+  }
+}
